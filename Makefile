@@ -152,9 +152,10 @@ UPROGS=\
 	$U/_copy\
 	$U/_pingpong\
 	$U/_sleep\
-	$U/_prime\
+	$U/_primes\
 	$U/_find\
 	$U/_xargs\
+	$U/_uptime\
 
 
 ifeq ($(LAB),syscall)
